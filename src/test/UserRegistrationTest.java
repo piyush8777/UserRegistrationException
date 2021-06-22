@@ -1,3 +1,15 @@
+/**
+ * ************************** 
+ * Purpose: Refactor the code to throw custom exceptions in case of
+ *          Invalid User Details
+ *  
+ * @author Piyush Shaw
+ * @version 1.0
+ * @since 21-06-2021
+ * **************************
+ */
+
+
 package test;
 
 import static org.junit.jupiter.api.Assertions.*;
